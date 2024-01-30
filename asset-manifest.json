@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movieFinder/static/css/main.4d125a13.css",
+    "main.js": "/movieFinder/static/js/main.f9c5b55c.js",
+    "index.html": "/movieFinder/index.html",
+    "static/media/search.svg": "/movieFinder/static/media/search.6e29d58e8c4d1cb3c916211e633dcf04.svg",
+    "main.4d125a13.css.map": "/movieFinder/static/css/main.4d125a13.css.map",
+    "main.f9c5b55c.js.map": "/movieFinder/static/js/main.f9c5b55c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d125a13.css",
+    "static/js/main.f9c5b55c.js"
+  ]
+}
